@@ -1,0 +1,20 @@
+body{
+    
+
+    margin: 29px 20px 0 0;
+    float: right;
+    
+}
+.clock{
+    border-radius: 6px;
+    padding: 4px;
+   background-color: cadetblue;
+   color: aliceblue;
+   font-size: 30px;
+   opacity: .8;
+   letter-spacing: 2px;
+}
+
+.clock div{
+    display: inline;
+}
