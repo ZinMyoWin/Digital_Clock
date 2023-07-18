@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    background-color: #F2EAD3;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, sans-serif;
+}
+.form{
+    padding: 20px;
+    background-color: #3F2305;
+    border-radius: 5%;
+}
+
+.score{
+    text-align: right;
+    color: #F5F5F5;
+    font-size: 20px;
+}
+
+.question{
+    color: #F5F5F5;
+    text-align: center;
+
+}
+.input{
+    width: 100%;
+    border:none;
+    border-radius:15px;
+    height: 20px;
+    text-align: center;
+    
+}
+button{
+    background-color: #F2EAD3;
+    width: 100%;
+    
+}
